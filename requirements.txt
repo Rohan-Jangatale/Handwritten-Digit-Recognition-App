@@ -1,2 +1,7 @@
 pip install streamlit tensorflow numpy pillow
+streamlit
+streamlit-drawable-canvas
+tensorflow
+numpy
+pillow
 
